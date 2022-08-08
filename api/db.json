@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "hello world",
+      "description": "I LOVE U All",
+      "userId": "103581654495502121025",
+      "id": 1
+    },
+    {
+      "title": "Hello Javascript",
+      "description": "Hi Dev",
+      "userId": "103581654495502121025",
+      "id": 2
+    },
+    {
+      "title": "hy",
+      "description": "ku",
+      "userId": "103581654495502121025",
+      "id": 3
+    },
+    {
+      "title": "ju",
+      "description": "kiiiiii",
+      "userId": "103581654495502121025",
+      "id": 4
+    },
+    {
+      "title": "are you a developer",
+      "description": "yes darlin ,I'm a frontend developer",
+      "userId": "103581654495502121025",
+      "id": 5
+    }
+  ]
+}
